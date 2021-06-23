@@ -13,4 +13,4 @@ The term »Skilleroatsje« comes from the language [Sater Frisian](https://en.wi
 
 Licenses:
 - Source: [GPL V3 or later](LICENSE)
-- Pictures: [See textures/LICENSE_PICTURES](textures/LICENSE_PICTURES)
+- Pictures: [see still.txt and animated.txt](textures/)
