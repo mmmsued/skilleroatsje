@@ -1,4 +1,4 @@
-local default_visual_scale = 1.0
+local default_visual_scale = 3.0
 
 -- Count the number of pictures.
 local function get_picture(number)

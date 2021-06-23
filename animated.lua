@@ -1,6 +1,6 @@
 -- Settings
 local default_speed	= 2.0
-local default_visual_scale = 1.0
+local default_visual_scale = 3.0
 
 -- Extra
 --	x is the paintings number. s is the animation speed.
